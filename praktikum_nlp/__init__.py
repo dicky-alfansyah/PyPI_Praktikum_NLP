@@ -1,4 +1,4 @@
-from .uir import ollamaUI
+from .uir import ollamaUI, ollamaUI_Vision
 
-__version__ = "0.1.2"
-__all__ = ["ollamaUI"]
+__version__ = "0.1.4"
+__all__ = ["ollamaUI", "ollamaUI_Vision"]
